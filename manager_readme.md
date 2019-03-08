@@ -69,16 +69,16 @@ grasp of your projects and workload, but my goal here is to give you 30 quality
 moments of my full attention. Slacks will be closed. Notifications will be off.
 Phones will be put away. This is 30 _high-quality_ minutes per week.
 
-In order for us to make sure that our time is best used I have a Google
+In order for us to make sure that our time is best used, I have a Google
 Document shared just for the two of us. Here we'll keep minutes of what we
 discussed. We can also put topics in here for things on the agenda in our next
 meeting. We'll also catalog wins and losses here: this record will help me
 pitch you for new roles and opportunities.
 
 Some people, particularly when the topic is emotional or challenging, like to
-bury it in the last few minutes of a 1/1. If you can, let's try to put those at
-the front of the meeting where we can treat them gently and with respect. How
-you feel is very real to me.
+bury it in the last few minutes of a 1/1. I did this for many years. If you
+can, let's try to put those at the front of the meeting where we can treat them
+gently and with respect. How you feel is very real to me.
 
 <a name="feedback"></a>
 
@@ -86,7 +86,7 @@ you feel is very real to me.
 
 I hope that I give more positive feedback than negative. If you feel like the
 balance is off, let me know. I want to celebrate all the good things you do
-with you. Sometimes negative feedback is warranted, and I hope we'll both take
+_with_ you. Sometimes negative feedback is warranted, and I hope we'll both take
 these gems, when they come, as opportunities for improvement.
 
 I hope to provide both positive and negative feedback to you in the following
@@ -96,7 +96,7 @@ format:
 * Specific
 * Kind
 
-Please return the feedback for me in the same style.
+Please the feedback for me in the same style.
 
 <a name="mgr-job"></a>
 
@@ -108,7 +108,9 @@ I've documented them here: GDOC LINK
 
 ### My Availability
 
-I will clear my calendar for you.<sup>[2](#fn2)</sup>
+I will clear my calendar for you.<sup>[2](#fn2)</sup> You are very important to
+me. That said, I've got a lot on my mind andit would be helpful to ask for my
+time in the following ways:
 
 1. Calendar with agenda and questions (I can prepare!)
 2. Slack with a specific concern; pre-warning of meeting invitation; meeting invitation (I can prepare and don't twist in the wind while I'm waiting!)
@@ -116,7 +118,6 @@ I will clear my calendar for you.<sup>[2](#fn2)</sup>
 
 Please avoid "we need to talk" or "just a quick second" messages. Without any
 directionality I'll start thinking the worst.
-
 
 ## Cadence
 
@@ -132,9 +133,9 @@ one.
 ### Diversity
 
 I believe my team must be ideologically, culturally, gender identity, religious
-identity, etc. diverse.  If you feel identity is not respected by me, _I_ need to fix
-it. If your identity is not respected by our team, _we_ need to fix it. This is
-not negotiable.
+identity, etc. diverse.  If you feel your identity is not respected by me, _I_
+need to fix it. If your identity is not respected by our team, _I_ need to
+guide the team in fixing it. This is not negotiable.
 
 <a name="systems"></a>
 
@@ -146,6 +147,11 @@ this reassuring.
 
 As a side-effect of this, I love working in hyper-scaling companies. I enjoy
 building processes that create scalable, easy work.
+
+If you want to discuss something at an emotional level, I'll try to pick up on
+it, but if I'm going the wrong way, let me know. If I'm offering emotional
+support and you really need a 4-point plan for getting to where you need to go,
+let me know.
 
 <a name="multi"></a>
 
@@ -198,10 +204,10 @@ documented is a drag to do, _code_.
 I believe we all choose to be leaders or not. Manager is a title, leader is a
 way of being. I expect you to be a leader. This means, ***take initative***.
 
-One of my favorite business books "Turn the Ship Around!" describes a world
-where the sub commander has so thoroughly described what "good decisions" look
-like, his staff of chiefs etc. simply go around saying "I intend to...." and,
-provided the intention is expressed with appropriate forethought and
+One of my favorite business books "[Turn the Ship Around!][ttsa]" describes a
+world where the sub commander has so thoroughly described what "good decisions"
+look like, his staff of chiefs etc. simply go around saying "I intend to...."
+and, provided the intention is expressed with appropriate forethought and
 consideration, says "Very well." This is my dream.
 
 <a name="work-clean"></a>
@@ -214,6 +220,11 @@ the dish, but then clean. When there's slop, they wipe. When there's slippery
 pools of water, they mop.
 
 Work clean.
+
+For us this means, don't commit typos ("I'll get them at the next review
+gate"), don't commit untested code ("Looks good, I'm probably right"), don't
+make garbage commits ("Please work;" "please please work;" "fixed;" "not
+fixed;" "die;") use `rebase -i` or squash in a merge.
 
 <a name="dwbb"></a>
 
@@ -229,12 +240,18 @@ of perfect effort, do it.
 
 ### Career
 
-You own your career. I own objectives. When I can turn my objectives into a
-project or effort that grows your career, we're in our optimal dynamic. If
-you're stalling or hungry, _you must tell me what you need_.
+***You own your career.***
+
+***I own objectives.***
+
+When I can turn the business' needs (my objectives) into a project or effort
+that grows your career, we're in our optimal dynamic. I'll try to do this as
+much as possible.
+
+If you're stalling or hungry, _you must tell me what you need_.
 
 If you don't feel like you're getting enough guidance, that's a great thing for
-me to hear from you and I'll make sure we're aligned in terms of level here.
+me to hear.
 
 <a name="basics"></a>
 
@@ -257,8 +274,8 @@ than the documentation. We are here to tie it into a larger conceptual model
 that helps students achieve great outcomes in short amounts of time. If you're
 unsure of an API, **you** read the documentation and process it for our
 students. If you're unsure of a grammar rule **you** pick up a reference.
-***Don't hand-wave and hope you're right because you kinda think you're
-right.***
+***Don't hand-wave and hope you're right because you "kinda think you're
+right."***
 
 <a name="og"></a>
 
@@ -293,6 +310,7 @@ from home. If you do not have enough domain expertise to work effectively, you
 should work in proximity to someone with more domain expertise. We are a remote
 team so you have all the flexibility you need. If you can achieve your
 objectives and hold to our schedule, I don't need to see you in the flesh.
+
 <a name="meetings"></a>
 
 ### Meetings
@@ -323,7 +341,8 @@ emergencies.
   respond within 60 minutes during business hours (generally 9-6). If I send you
   something outside of this bloc you may safely ignore it until those hours. OR,
   if you feel like replying, sure, but you are not obligated to. Expect the
-  same from me
+  same from me. If the line's long at the grocery store I might reply, but it's
+  an exception
 * **Calendar**: Respect your calendar. Reply to meetings / working sessions
   etc. within the day
 * **Email**: Personally, I run at Inbox Zero (OK, well, Inbox ~ 5). I expect
@@ -345,7 +364,8 @@ emergencies.
 * Provide perspective
 * Getting a hand: "Can you help me with...?"
 * Making and documenting a system or process
-* Building a pipeline to transform data or make drudge tasks go away
+* Building a pipeline to transform data or make drudge tasks go away (usually
+  with ancient spells like `sed`, `awk` or `perl`)
 * `vim` stuff
 
 <a name="known-issues"></a>
@@ -358,7 +378,7 @@ emergencies.
   I've not been able to extirpate it from my wetware.
 * Beating the point to death; **Workaround**: "OK, we get it: $POINT."
 * Strong morning person; I will, by default, give my staff my "prime hours." As
-  afternoons near I will not be as sharp. **Workaround**: Avoidance and using the
+  afternoons, near I will not be as sharp. **Workaround**: Avoidance and using the
   calendar to your advantage
 * Murkiness: I sometimes beat the point to death, other times I'm murky and
   imprecise as to what I want; **Workaround**: Demand clarity.
@@ -372,3 +392,5 @@ emergencies.
    shift things or skip, but the opportunity will _generally_ always be available.
 2. <a name="fn2"></a> OK! as much as I can. But, trust, this is where my heart
    is.
+
+[ttsa]: https://stevengharms.com/books/2019-02-06-turn-the-ship-around/
