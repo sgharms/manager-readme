@@ -34,6 +34,7 @@ We'll build upon this foundation :) &mdash; together.
   * <a href="og">Organizational Guidelines</a>
     * <a href="#weekend">Working on the Weekend</a>
     * <a href="#vacation">Vacation</a>
+    * <a href="#sick">Sick Days</a>
     * <a href="#wft">Working from Home / Remotely</a>
     * <a href="#meetings">Meetings</a>
     * <a href="#friday">Friday Afternoon</a>
@@ -300,6 +301,16 @@ Tensions here should be resolved in our [1/1 meeting](#ones).
 Take it. Take it wholly. If you must check Slack, don't reply. If you want to
 share pictures, cool and all, but seriously. Log out, set up auto-responders and
 replace the Slack whisper-knock with _"Aloha o'e"_.
+
+<a name="sick"></a>
+
+### Sick Days
+
+***Use your sick days***
+
+They are a part of your compensation. If you WFH, miserably, you're not doing
+it right. When you are sick or when your kid is sick or when you dog needs to
+be at the vet all day. ***TAKE THE DAY OFF AS SICK***.
 
 <a name="wfh"></a>
 
