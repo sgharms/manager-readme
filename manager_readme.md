@@ -8,6 +8,7 @@ primary goal. In order to do this, I think it's good to tell you a bit about
 what to expect around working in this team.
 
 This document can't take the place of spending time to get to know one another.
+We'll build upon this foundation :) &mdash; together.
 
 * Table of Contents
   * <a href="#introduction">Introduction</a>
