@@ -389,7 +389,7 @@ emergencies.
   I've not been able to extirpate it from my wetware.
 * Beating the point to death; **Workaround**: "OK, we get it: $POINT."
 * Strong morning person; I will, by default, give my staff my "prime hours." As
-  afternoons, near I will not be as sharp. **Workaround**: Avoidance and using the
+  afternoon nears, I will not be as sharp. **Workaround**: Avoidance and using the
   calendar to your advantage
 * Murkiness: I sometimes beat the point to death, other times I'm murky and
   imprecise as to what I want; **Workaround**: Demand clarity.
