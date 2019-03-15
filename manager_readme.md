@@ -110,7 +110,7 @@ I've documented them here: GDOC LINK
 ### My Availability
 
 I will clear my calendar for you.<sup>[2](#fn2)</sup> You are very important to
-me. That said, I've got a lot on my mind andit would be helpful to ask for my
+me. That said, I've got a lot on my mind and it would be helpful to ask for my
 time in the following ways:
 
 1. Calendar with agenda and questions (I can prepare!)
