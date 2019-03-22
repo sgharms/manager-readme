@@ -358,9 +358,9 @@ emergencies.
   etc. within the day
 * **Email**: Personally, I run at Inbox Zero (OK, well, Inbox ~ 5). I expect
   replies (even if they are, "Can't do this til tomorrow!") within a day.
-  Email is for important things that we need a paper record of. When thought is
-  required. The most important use of Slack, IMHO, is to blend an FAQ with
-  expertise on where links are
+  Email is for important things that occasion a "paper record." The most
+  important use of Slack, IMHO, is to blend an FAQ with
+  expertise on where resources are to be found
 
 <a name="steven"></a>
 
