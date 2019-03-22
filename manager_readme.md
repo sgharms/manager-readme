@@ -97,7 +97,7 @@ format:
 * Specific
 * Kind
 
-Please the feedback for me in the same style.
+Please format feedback for me in the same style.
 
 <a name="mgr-job"></a>
 
