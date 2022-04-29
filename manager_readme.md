@@ -74,12 +74,19 @@ In order for us to make sure that our time is best used, I have a Google
 Document shared just for the two of us. Here we'll keep minutes of what we
 discussed. We can also put topics in here for things on the agenda in our next
 meeting. We'll also catalog wins and losses here: this record will help me
-pitch you for new roles and opportunities.
+pitch you for new roles and opportunities. _Both_ of us share the
+responsibility of defining the agenda. You should absolutely add things that
+you want to discuss.
 
 Some people, particularly when the topic is emotional or challenging, like to
-bury it in the last few minutes of a 1/1. I did this for many years. If you
-can, let's try to put those at the front of the meeting where we can treat them
-gently and with respect. How you feel is very real to me.
+bury it in the last few minutes of a 1/1 (this is often called a "stinger"). I
+did this for many years. If you can, let's try to put those at the _front_ of
+the meeting where we can treat them gently and with respect.
+
+I will endeavor to never cancel this meeting.
+
+Any personal messages that impact you, your work, and your team will happen in
+this meeting _or_ during an off-cycle 1/1, where warranted.
 
 <a name="feedback"></a>
 
