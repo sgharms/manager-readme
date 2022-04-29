@@ -112,6 +112,11 @@ balance is off, let me know. I want to celebrate all the good things you do
 _with_ you. Sometimes negative feedback is warranted, and I hope we'll both take
 these gems, when they come, as opportunities for improvement.
 
+Feedback should be fresh and _I will not_ bottle it up and deliver it at our
+next 1/1. Depending on its nature, I will use IM or a meeting appointment (per
+guarantees communicated elsewhere in this document) to get your attention and
+deliver the content.
+
 I hope to provide both positive and negative feedback to you in the following
 format:
 
@@ -120,6 +125,8 @@ format:
 * Kind
 
 Please format feedback for me in the same style.
+
+If you are unable to communicate a concern to me, please skip level to my manager.
 
 <a name="mgr-job"></a>
 
@@ -276,6 +283,10 @@ If you're stalling or hungry, _you must tell me what you need_.
 If you don't feel like you're getting enough guidance, that's a great thing for
 me to hear.
 
+Additionally, I am here to be an advocate for your career. I will ensure that
+your contributions are properly understood, scoped, attributed, and
+communicated.
+
 <a name="basics"></a>
 
 ### The Basics Aren't Explicit
@@ -354,6 +365,9 @@ they do not happen***. It's entirely appropriate to have a meeting to
 "brainstorm" or "spitball" or "debate a point," but they should never fail to
 have a purpose that can be verified as having been met by the end of the
 meeting.
+
+Any meeting I set for you will have a meaningful title and an agenda. You will
+never have anxiety about the purpose of a meeting I slate.
 
 <a name="friday"></a>
 
