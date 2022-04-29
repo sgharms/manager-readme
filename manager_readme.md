@@ -14,6 +14,7 @@ We'll build upon this foundation :) &mdash; together.
   * <a href="#introduction">Introduction</a>
   * <a href="#commitments">Commitments to You</a>
     * <a href="#ones">1/1</a>
+    * <a href="#im">Instant Messaging</a>
     * <a href="#feedback">Bi-Directional Feedback</a>
     * <a href="#mgr-job">My Job Roles and Responsibilities</a>
     * <a href="#availability">My Availability</a>
@@ -87,6 +88,20 @@ I will endeavor to never cancel this meeting.
 
 Any personal messages that impact you, your work, and your team will happen in
 this meeting _or_ during an off-cycle 1/1, where warranted.
+
+<a name="im"></a>
+
+### Instant Messaging
+
+If I need to IM you, I will give you a subject line as an opener. The format will be
+
+`[Urgent|null]:[Priv|null]:[Question|Feedback|Conversation|null]:[number]: string`
+
+* `[Urgent|null]: If I need a response quickly the string `Urgent` will begin the line. If `Urgent` is not present, this message can be delayed until your convenience
+* `[Priv|null]`: If the content might be delicate or need to be read in a private context, I'll add `Priv` so that you're not sharing screen
+* `[Question|Feedback|Conversation|null]` Lets you know what I want. An `Urgent Question` suggests I'm doing something that's time-bound. A `Conversation` with no modifiers might well be about a movie you told me about
+* `[number]`: Estimated time for you to give me a reply. I'm estimating whether the response is complex to calculate. You might be willing to be interrupted by me if the question's answer is estimated very low
+* `string`: The subject matter. I'll ensure to hide any delicate or personal information
 
 <a name="feedback"></a>
 
