@@ -25,6 +25,7 @@ We'll build upon this foundation :) &mdash; together.
     * <a href="#multi">Multi-Disciplinary / Multi-Lateral</a>
     * <a href="#culture">Cultural Expectations</a>
     * <a href="#work-hard">Work Hard</a>
+    * <a href="#helpfulness">Helpfulness</a>
     * <a href="#questions">Questions Over Error</a>
     * <a href="#action">Action over Idleness</a>
     * <a href="#work-clean">Work Clean</a>
@@ -208,6 +209,19 @@ If, one day, you find that you no longer want to do your best here, let me know
 and I'll help you move to the place you can be best. Don't ride the downward
 slump. I'm here to help you move from joy to joy &mdash; even if your joy isn't
 with me.
+
+<a name="helpfulness"></a>
+
+### Helpfulness
+
+Be helpful. An error in my early career is that I thought I needed to
+outcompete my peers so that I could be "seen" and earn more / advance faster /
+manage my management. This is an egotistical and shallow model of contribution.
+
+If our 1/1s are effective, I know what you're doing. If we're communicating
+properly in them you understand how you will advance and earn more. Therefore,
+contributing to the team can be done _without fear_ that you'll get passed
+over. As such, offer help willingly; ask for help unashamedly.
 
 <a name="questions"></a>
 
